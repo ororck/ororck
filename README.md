@@ -15,11 +15,6 @@
 - Docker
 - CI/CD (GitHub Actions)
 
-## 🏆 GitHub Achievements
-
-<a href="https://github.com/ororck?achievement=heart-on-your-sleeve&tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-default.png" width="64" alt="Heart On Your Sleeve"></a>
-<a href="https://github.com/ororck?achievement=quickdraw&tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="64" alt="Quickdraw"></a>
-
 ## 📫 Me contacter
 
 - LinkedIn : saidi.mohamed@linkedin.com
@@ -33,3 +28,7 @@
 | [À venir] | [Description] | [Technologies] |
 ---
 *Page mise à jour le 13/05/2026*
+
+## 🏆 GitHub Achievements
+
+<a href="https://github.com/ororck?achievement=heart-on-your-sleeve&tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-default.png" width="64" alt="Heart On Your Sleeve"></a> <a href="https://github.com/ororck?achievement=quickdraw&tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="64" alt="Quickdraw"></a>
