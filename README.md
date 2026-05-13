@@ -1,16 +1,24 @@
-## Hi there 👋
+# Bonjour, je suis Mohamed Saidi 👋
 
-<!--
-**ororck/ororck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🙋 À propos de moi
 
-Here are some ideas to get you started:
+- 🎓 En formation **DevOps Azure** chez Simplon
+- 📍 Basé à Toulouse
+- 💼 Objectif : Travailler comme administrateur reseaux et me specialiser par la suite dans la securité pour travailler comme devsecops
+- 🌱 En ce moment j'apprends : Git, Azure, Docker, CI/CD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Compétences en cours d'acquisition
+
+- Git & GitHub
+- Microsoft Azure
+- Linux & Bash
+- Docker
+- CI/CD (GitHub Actions)
+
+## 📫 Me contacter
+
+- LinkedIn : saidi.mohamed@linkedin.com
+- Email : saidi.mohamed@aol.fr
+
+---
+*Page mise à jour le 13/05/2026*
