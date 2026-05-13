@@ -7,13 +7,14 @@
 - 💼 Objectif : Travailler comme administrateur reseaux et me specialiser par la suite dans la securité pour travailler comme devsecops
 - 🌱 En ce moment j'apprends : Git, Azure, Docker, CI/CD
 
-## 🛠️ Compétences en cours d'acquisition
+## 🛠️ Compétences
 
-- Git & GitHub
-- Microsoft Azure
-- Linux & Bash
-- Docker
-- CI/CD (GitHub Actions)
+| 🎨 Frontend | ⚙️ Backend | ☁️ Cloud & DevOps | 🔧 Outils |
+|:-----------:|:----------:|:-----------------:|:---------:|
+| HTML | Python | Microsoft Azure | Git & GitHub |
+| CSS | C# | Docker | Linux & Bash |
+| JavaScript | | CI/CD (GitHub Actions) | |
+| Tailwind CSS | | | |
 
 ## 📫 Me contacter
 
@@ -27,8 +28,9 @@
 | Page de profil GitHub | Ma première contribution Git | Git, Markdown |
 | [À venir] | [Description] | [Technologies] |
 ---
-*Page mise à jour le 13/05/2026*
 
 ## 🏆 GitHub Achievements
 
 <a href="https://github.com/ororck?achievement=heart-on-your-sleeve&tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-default.png" width="64" alt="Heart On Your Sleeve"></a> <a href="https://github.com/ororck?achievement=quickdraw&tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="64" alt="Quickdraw"></a>
+
+*Page mise à jour le 13/05/2026*
