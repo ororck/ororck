@@ -43,3 +43,8 @@ Voici les ressources que je suis pour rester à jour :
 <a href="https://github.com/ororck?achievement=heart-on-your-sleeve&tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-default.png" width="64" alt="Heart On Your Sleeve"></a> <a href="https://github.com/ororck?achievement=quickdraw&tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="64" alt="Quickdraw"></a>
 
 *Page mise à jour le 13/05/2026*
+
+> *"[Adrien] est une personne sérieuse et motivée, 
+> avec qui j'ai eu le plaisir de collaborer en formation DevOps Azure. 
+> Je recommande de suivre son parcours !"*  
+> — [Adrien], promotion DevOps Azure
