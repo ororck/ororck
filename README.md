@@ -8,13 +8,13 @@
 - 🌱 En ce moment j'apprends : Git, Azure, Docker, CI/CD
 
 ## 🛠️ Compétences
-
 | 🎨 Frontend | ⚙️ Backend | ☁️ Cloud & DevOps | 🔧 Outils |
 |:-----------:|:----------:|:-----------------:|:---------:|
 | HTML | Python | Microsoft Azure | Git & GitHub |
-| CSS | C# | Docker | Linux & Bash |
-| JavaScript | | CI/CD (GitHub Actions) | |
-| Tailwind CSS | | | |
+| CSS | FastAPI / Flask | Docker | Linux & Bash |
+| JavaScript | C# | CI/CD (GitHub Actions) | PowerShell |
+| Tailwind CSS | SQL / PostgreSQL | Terraform / Bicep (IaC) | VMware |
+| | WebSockets | OIDC | Cisco Packet Tracer |
 
 ## 📫 Me contacter
 
