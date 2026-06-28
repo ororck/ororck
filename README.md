@@ -18,13 +18,12 @@
 
 ## 📫 Me contacter
 
-- LinkedIn : saidi.mohamed@linkedin.com
-- Email : saidi.mohamed@aol.fr
+- LinkedIn : www.linkedin.com/in/mohamed-saidi-devops
 
 ## 🚀 Mes projets
-
 | Projet | Description | Technologies |
 |--------|-------------|--------------|
+| 🎯 quiz-live (plateforme de quiz temps réel) | Application type Kahoot pour réviser l'AZ-900 en groupe. Trois modes de jeu (live formateur, solo, battle multijoueur avec classement live), push des questions en temps réel via WebSockets, banque de 754 questions. Déployée en serverless avec pipeline CI/CD et auth OIDC sans secret. | Python, FastAPI, WebSockets, PostgreSQL, Docker, Azure Container Apps, GitHub Actions |
 | 🖥️ Dashboard de monitoring réseau | Application web full-stack qui surveille en temps réel les équipements d'un réseau (2 LAN + 1 routeur). Interface dark mode avec rafraîchissement automatique via API JSON. | Python, Flask, Tailwind CSS, JavaScript, Git |
 | ⚙️ Script de déploiement automatique | Script DevOps qui vérifie l'environnement, clone le repo, installe les dépendances, lance les tests et déploie l'application en une commande. Logs horodatés générés à chaque run. | Python, Bash, Git, pip |
 | 🌐 Infrastructure réseau simulée | Topologie réseau complète avec 2 LAN interconnectés via un routeur. Configuration des adresses IP, passerelles et vérification de la connectivité inter-réseaux. | Cisco Packet Tracer, TCP/IP |
@@ -41,8 +40,5 @@ Voici les ressources que je suis pour rester à jour :
 
 ---
 
-## 🏆 GitHub Achievements
 
-<a href="https://github.com/ororck?achievement=heart-on-your-sleeve&tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-default.png" width="64" alt="Heart On Your Sleeve"></a> <a href="https://github.com/ororck?achievement=quickdraw&tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="64" alt="Quickdraw"></a>
-
-*Page mise à jour le 21/05/2026*
+*Page mise à jour le 28/08/2026*
